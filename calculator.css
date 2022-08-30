@@ -1,6 +1,6 @@
 #base{
     background-color: darkslategrey;
-    height: 500px;
+    height: 540px;
     width: 265px;
     position: relative;
     border: black 2px solid;
@@ -18,7 +18,7 @@
     position: absolute;
     margin-left: 25px;
     margin-top: 50%;
-    background-color: gray;
+    background-color: white;
     width: 50px;
     height: 55px;
 }
@@ -26,7 +26,7 @@
     position: absolute;
     margin-left: 80px;
     margin-top: 50%;
-    background-color: gray;
+    background-color: white;
     width: 100px;
     height: 55px;
 }
@@ -42,7 +42,7 @@
     position: absolute;
     margin-left: 25px;
     margin-top: 70%;
-    background-color: gray;
+    background-color: white;
     width: 50px;
     height: 55px;
 }
@@ -50,7 +50,7 @@
     position: absolute;
     margin-left: 80px;
     margin-top: 70%;
-    background-color: gray;
+    background-color: white;
     width: 50px;
     height: 55px;
 }
@@ -58,7 +58,7 @@
     position: absolute;
     margin-left: 135px;
     margin-top: 70%;
-    background-color: gray;
+    background-color: white;
     width: 50px;
     height: 55px;
 
@@ -76,7 +76,7 @@
     position: absolute;
     margin-left: 25px;
     margin-top: 90%;
-    background-color: gray;
+    background-color: white;
     width: 50px;
     height: 55px;
 }
@@ -84,7 +84,7 @@
     position: absolute;
     margin-left: 80px;
     margin-top: 90%;
-    background-color: gray;
+    background-color: white;
     width: 50px;
     height: 55px;
 }
@@ -92,7 +92,7 @@
     position: absolute;
     margin-left: 135px;
     margin-top: 90%;
-    background-color: gray;
+    background-color: white;
     width: 50px;
     height: 55px;
 }
@@ -108,7 +108,7 @@
     position: absolute;
     margin-left: 25px;
     margin-top: 110%;
-    background-color: gray;
+    background-color: white;
     width: 50px;
     height: 55px;
 }
@@ -116,7 +116,7 @@
     position: absolute;
     margin-left: 80px;
     margin-top: 110%;
-    background-color: gray;
+    background-color: white;
     width: 50px;
     height: 55px;
 }
@@ -124,7 +124,7 @@
     position: absolute;
     margin-left: 135px;
     margin-top: 110%;
-    background-color: gray;
+    background-color: white;
     width: 50px;
     height: 55px;
 }
@@ -140,7 +140,7 @@
     position: absolute;
     margin-left: 25px;
     margin-top: 130%;
-    background-color: gray;
+    background-color: white;
     width: 100px;
     height: 55px;
 }
@@ -148,7 +148,7 @@
     position: absolute;
     margin-left: 135px;
     margin-top: 130%;
-    background-color: gray;
+    background-color: white;
     width: 50px;
     height: 55px;
 }
@@ -161,5 +161,5 @@
     height: 55px;
 }
 button:hover{
-    color: white;    
+    color: rgb(81, 206, 206);    
 }
