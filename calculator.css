@@ -1,0 +1,165 @@
+#base{
+    background-color: darkslategrey;
+    height: 500px;
+    width: 265px;
+    position: relative;
+    border: black 2px solid;
+
+}
+#result{
+    height: 100px;
+    width: 220px;
+    position: absolute;
+    background-color: rgb(81, 206, 206);
+    left: 8%;
+    top: 5%;
+}
+#p1{
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 50%;
+    background-color: gray;
+    width: 50px;
+    height: 55px;
+}
+#p2{
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 50%;
+    background-color: gray;
+    width: 100px;
+    height: 55px;
+}
+#p4{
+    position: absolute;
+    margin-left: 190px;
+    margin-top: 50%;
+    background-color: orange;
+    width: 50px;
+    height: 55px;
+}
+#p5{
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 70%;
+    background-color: gray;
+    width: 50px;
+    height: 55px;
+}
+#p6{
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 70%;
+    background-color: gray;
+    width: 50px;
+    height: 55px;
+}
+#p7{
+    position: absolute;
+    margin-left: 135px;
+    margin-top: 70%;
+    background-color: gray;
+    width: 50px;
+    height: 55px;
+
+}
+#p8{
+    position: absolute;
+    margin-left: 190px;
+    margin-top: 70%;
+    background-color: orange;
+    width: 50px;
+    height: 55px;
+
+}
+#p9{
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 90%;
+    background-color: gray;
+    width: 50px;
+    height: 55px;
+}
+#p10{
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 90%;
+    background-color: gray;
+    width: 50px;
+    height: 55px;
+}
+#p11{
+    position: absolute;
+    margin-left: 135px;
+    margin-top: 90%;
+    background-color: gray;
+    width: 50px;
+    height: 55px;
+}
+#p12{
+    position: absolute;
+    margin-left: 190px;
+    margin-top: 90%;
+    background-color: orange;
+    width: 50px;
+    height: 55px;
+}
+#p13{
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 110%;
+    background-color: gray;
+    width: 50px;
+    height: 55px;
+}
+#p14{
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 110%;
+    background-color: gray;
+    width: 50px;
+    height: 55px;
+}
+#p15{
+    position: absolute;
+    margin-left: 135px;
+    margin-top: 110%;
+    background-color: gray;
+    width: 50px;
+    height: 55px;
+}
+#p16{
+    position: absolute;
+    margin-left: 190px;
+    margin-top: 110%;
+    background-color: orange;
+    width: 50px;
+    height: 55px;
+}
+#p17{
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 130%;
+    background-color: gray;
+    width: 100px;
+    height: 55px;
+}
+#p18{
+    position: absolute;
+    margin-left: 135px;
+    margin-top: 130%;
+    background-color: gray;
+    width: 50px;
+    height: 55px;
+}
+#p19{
+    position: absolute;
+    margin-left: 190px;
+    margin-top: 130%;
+    background-color: orange;
+    width: 50px;
+    height: 55px;
+}
+button:hover{
+    color: white;    
+}

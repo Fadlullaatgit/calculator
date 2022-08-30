@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./calculator.css">
+</head>
+<body>
+    <div class="container p-3 mt-5">
+    <div id="base">
+        <div class="row mt-2 mt-1 ms-2">
+        <input type="text" id="result"><br> </div>
+        <div class="row mt-2 mt-1 ms-2">
+        <button id="p1" onclick="removeElement()"><b>&#9003;</b> </button>
+        <button id="p2" onclick="allClear()"><b>AC</b></button>
+        <button id="p4" onclick="displayNum('/')"><b>/</b></button><br>
+    </div>
+    <div class="row mt-2 mt-1 ms-2">
+        <button id="p5" onclick="displayNum(7)"><b>7</b></button>
+        <button id="p6" onclick="displayNum(8)"><b>8</b></button>
+        <button id="p7" onclick="displayNum(9)"><b>9</b></button>
+        <button id="p8" onclick="displayNum('*')"><b>*</b></button><br>    </div>
+        <div class="row mt-2 mt-1 ms-2">
+        <button id="p9" onclick="displayNum(4)"><b>4</b></button>
+        <button id="p10" onclick="displayNum(5)"><b>5</b></button>
+        <button id="p11" onclick="displayNum(6)"><b>6</b></button>
+        <button id="p12" onclick="displayNum('-')"><b>-</b></button><br></div>
+        <div class="row mt-2 mt-1 ms-2">
+        <button id="p13" onclick="displayNum(1)"><b>1</b></button>
+        <button id="p14" onclick="displayNum(2)"><b>2</b></button>
+        <button id="p15" onclick="displayNum(3)"><b>3</b></button>
+        <button id="p16" onclick="displayNum('+')"><b>+</b></button><br></div>
+        <div class="row mt-2 mt-1 ms-2">
+        <button id="p17" onclick="displayNum(0)"><b>0</b></button>
+        <button id="p18" onclick="displayNum('.')"><b>.</b></button>
+        <button id="p19" onclick=" evaluateExp()"><b>=</b></button>
+    </div>
+    </div>
+</div>
+</body>
+<script src="./calc.js"></script>
+</html>
